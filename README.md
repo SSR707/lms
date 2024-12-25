@@ -1,5 +1,7 @@
 # Loyiha Server Linki
 
+# http://43.204.22.164:3000/api
+
 Bu loyiha uchun serverga quyidagi havola orqali murojaat qilishingiz mumkin:
 
 <a href="http://43.204.22.164:3000/api" target="_blank">👉 Loyiha Serverga Kirish 👈</a>
