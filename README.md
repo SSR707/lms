@@ -1,6 +1,4 @@
-# Loyiha Server Linki
-
-# http://43.204.22.164:3000/api
+# http://43.204.22.164:3000/api - Loyiha Server Linki
 
 Bu loyiha uchun serverga quyidagi havola orqali murojaat qilishingiz mumkin:
 
