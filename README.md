@@ -1,3 +1,15 @@
+# Loyiha Server Linki
+
+Bu loyiha uchun serverga quyidagi havola orqali murojaat qilishingiz mumkin:
+
+<a href="http://43.204.22.164:3000/api" target="_blank">👉 Loyiha Serverga Kirish 👈</a>
+
+## Qanday foydalaniladi?
+
+1. Yuqoridagi havolani bosing.
+2. Serverning API endpointlariga murojaat qiling.
+3. Ma'lumotlarni olish yoki yuborish uchun API ni sinab ko'ring.
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
